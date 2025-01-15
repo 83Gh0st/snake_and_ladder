@@ -2,6 +2,8 @@
 
 This Snake and Ladder game is a graphical version built using Python's Tkinter library. It supports 2-4 players and offers an interactive and visually appealing gameplay experience. The game includes snakes, ladders, customizable tokens, and an animated dice roll.
 
+![image](https://github.com/user-attachments/assets/79e24277-b1fc-4b68-a77e-6d9638dfc407)
+
 ## Features
 - **Graphical User Interface (GUI):** Built with Tkinter, featuring a visually appealing board.
 - **Customizable Players:** Allows between 2 to 4 players with names and token shapes/colors.
